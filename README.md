@@ -1,4 +1,4 @@
-# Loud Noises
+# Dictionary - Methods
 
 <img src="http://i.imgur.com/Dr8ghE9.jpg?1" alt="Drawing" style="width: 200px;"/>  
 
@@ -28,7 +28,7 @@
 	* count
 	* isEmpty
 	* Optionals
-* Can work with dictoinaries 
+* Can work with dictionaries 
 * Can iterate over a dictionary
 * Knows about optionals (should at this point)
 ## Outline / Notes

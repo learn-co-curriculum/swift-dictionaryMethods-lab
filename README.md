@@ -30,6 +30,8 @@
 * Can work with dictionaries 
 * Can iterate over a dictionary
 * Knows about optionals (should at this point)
+
+
 ## Outline / Notes
 
 *  This should be anywhere between 10-15 questions.

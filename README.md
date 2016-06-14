@@ -27,7 +27,6 @@
 	* subscript syntax with arrays
 	* count
 	* isEmpty
-	* Optionals
 * Can work with dictionaries 
 * Can iterate over a dictionary
 * Knows about optionals (should at this point)

@@ -4,8 +4,8 @@
 
 > Bang 💥 
 
-## Learning Objectives - The student should be able to...
+## Overview 
 
-* Solve these questions challenging their knowledge of dictionaries and how/when to use them.
+In this lab. you'll be solving questions about dictionaries as well as when and how to use them. 
 
 <a href='https://learn.co/lessons/DictionaryMethodsLab' data-visibility='hidden'>View this lesson on Learn.co</a>

@@ -121,5 +121,24 @@ for (type, names) in characters {
 ```
 * Below this line of code you should create _another_ for-in loop of the `names` variable you know how available to you.
 
+**9.** Create a function, `addHearts()` that takes in no arguments and returns no values. At this point, we can assume that our `starWarsCharacters` `Dictionary` is filled with heroes, villains, droids and gangsters.
+
+Lets add some love to their names.
+
+![](http://i.imgur.com/YjoOjE7.jpg?1)
+
+Going through every name in this dictionary, whenever we see the `Character` 'o', we should replace it with the `Character` '❤️'.
+
+For example, the name "Han Solo" should become "Han S❤️l❤️". Also, the name "Watto" will become "Watt❤️".
+
+You should implement this method by first looping over the key-value pairs of the `starWarsCharacters` `Dictionary`, like so.
+
+```swift
+for (type, names) in starWarsCharacters {
+
+}
+```
+
+In that for-loop, you will have access to a `names` constant which is an array of `String`s. You should go through each name and see if it contains the letter 'o'. If it does, then replace all occurrences of the character 'o' with the character '❤️' for that particular name.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/swift-dictionaryMethods-lab'>Dictionary Methods Lab</a> on Learn.co and start learning to code for free.</p>

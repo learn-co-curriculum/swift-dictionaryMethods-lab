@@ -28,7 +28,7 @@ class DictionaryMethodsTests: XCTestCase {
     
     func testStarWarsVillians() {
         let expectedResult = ["Darth Vader", "Emperor Palpatine"]
-        XCTAssertEqual(testClass.starWarsVillians, expectedResult)
+        XCTAssertEqual(testClass.starWarsVillains, expectedResult)
     }
     
     func testStarWarsDroids() {
@@ -38,7 +38,7 @@ class DictionaryMethodsTests: XCTestCase {
     
     func testAddKyloRen() {
         testClass.addKyloRen()
-        XCTAssertTrue(testClass.starWarsVillians.contains("Kylo Ren"))
+        XCTAssertTrue(testClass.starWarsVillains.contains("Kylo Ren"))
     }
     
     func testRemoveDroid() {
@@ -59,7 +59,7 @@ class DictionaryMethodsTests: XCTestCase {
         let villains = testClass.starWarsCharacters["Villains"] ?? []
         let droids = testClass.starWarsCharacters["Droids"] ?? []
         XCTAssertEqual(heroes, testClass.starWarsHeroes)
-        XCTAssertEqual(villains, testClass.starWarsVillians)
+        XCTAssertEqual(villains, testClass.starWarsVillains)
         XCTAssertEqual(droids, testClass.starWarsDroids)
     }
     

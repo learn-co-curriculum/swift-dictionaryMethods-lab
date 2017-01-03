@@ -11,14 +11,16 @@ import Foundation
 class DictionaryMethods {
     
     // Questions #1, #2, #3, #6 and #7
-   
     
+
     
     // Question #4
    
     
     
+    
     // Question #5
+  
     
     
     
@@ -26,16 +28,20 @@ class DictionaryMethods {
    
     
     
+    
     // Question #7
+   
     
     
     
     // Question #8
-   
+    
+    
     
     
     // Question #9
-  
+    
+    
     
     
 }

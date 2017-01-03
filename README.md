@@ -14,7 +14,7 @@
 * Han Solo
 * Rey
 
-**2.** Right below where you created the `starWarsHeroes` variable, you should create _another_ variable, `starWarsVillians` of type [`String`] which contains the following values:
+**2.** Right below where you created the `starWarsHeroes` variable, you should create _another_ variable, `starWarsVillains` of type [`String`] which contains the following values:
 * Darth Vader
 * Emperor Palpatine
 
@@ -24,7 +24,7 @@
 * IG-88
 * BB-8
 
-**4.** Create a function, `addKyloRen()` which takes in no arguments and returns no values. In your implementation of this function, you should add "Kylo Ren" to the `starWarsVillians` array you created above.
+**4.** Create a function, `addKyloRen()` which takes in no arguments and returns no values. In your implementation of this function, you should add "Kylo Ren" to the `starWarsVillains` array you created above.
 
 ![](http://i.imgur.com/azURyRS.jpg?1)
 
@@ -57,7 +57,7 @@ The keys of this `Dictionary` should be the following:
 * Villains
 * Droids
 
-The values pertaining to each key should be the `Array`s you made in Questions #1-3. You should make sure you assign the correct `Array` to the approrpriate key. Meaning... "Heroes" the key should not pertain to the value `starWarsVillians` as that wouldn't make sense.
+The values pertaining to each key should be the `Array`s you made in Questions #1-3. You should make sure you assign the correct `Array` to the approrpriate key. Meaning... "Heroes" the key should not pertain to the value `starWarsVillains` as that wouldn't make sense.
  
 **7.** In between where you created the `starWarsDroids` and `starWarsCharacters` variables, we will be creating another variable.. `starWarsGangsters` which is of type [`String`]. Assign it a default value where it contains the following values:
 * Watto

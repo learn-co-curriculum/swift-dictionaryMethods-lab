@@ -141,4 +141,8 @@ for (type, names) in starWarsCharacters {
 
 In that for-loop, you will have access to a `names` constant which is an array of `String`s. You should go through each name and see if it contains the letter 'o'. If it does, then replace all occurrences of the character 'o' with the character '❤️' for that particular name.
 
+## Solution Video
+
+[![](http://img.youtube.com/vi/Iyeujaeniyo/0.jpg)](https://www.youtube.com/watch?v=Iyeujaeniyo "")
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/swift-dictionaryMethods-lab'>Dictionary Methods Lab</a> on Learn.co and start learning to code for free.</p>

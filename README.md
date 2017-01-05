@@ -1,9 +1,5 @@
 # Dictionaries: Methods
 
-![Drawing](http://i.imgur.com/Dr8ghE9.jpg?1)
-
-> Bang 💥 
-
 ## Instructions
 
 ![](http://i.imgur.com/kXXcO1R.jpg?1)
